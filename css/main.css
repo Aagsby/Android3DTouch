@@ -23,6 +23,7 @@ body {
 	padding-top: 30px;
 	font-family: sans-serif;
 	text-align: center;
+	background: #D9FFFE;
 }
 
 h1 {
@@ -54,18 +55,18 @@ h2 {
 .orange {
 	max-width: 500px;
 	width: 60%;
-	background: orange;
+	background: #FF8615;
 	transform: translate(-50%, -50%) scale(0);
 }
 .green {
 	max-width: 550px;
 	width: 70%;
-	background: lime;
+	background: #A5DB5C;
 	transform: translate(-50%, -50%) scale(0);
 }
 .yellow {
 	width: 80%;
 	max-width: 600px;
-	background: yellow;
+	background: #F8DB57;
 	transform: translate(-50%, -50%) scale(0);
 }

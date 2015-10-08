@@ -8,3 +8,5 @@ http://monkeywithglasses.com/examples/Android3DTouch/
 
 Tested using mobile Chrome and mobile Firefox.
 It does not work in Stock Android browser and it seems to behave slightly different in Chrome and FF.
+
+Also, it feels a bit "jerky", but it should be enough to differentiate between a soft and a strong touch.
